@@ -1,0 +1,160 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#burgerme {
+    margin: 0px auto;
+    width: 800px;
+}
+
+#burgerFoto {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+    width: 300px;
+}
+
+#burgerPlaats {
+
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#start {
+    width: 100px;
+}
+
+#startknop {
+    width: 250px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+#body {
+
+    background-image: url(../images/cmd-01.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+section {
+    width: 950px;
+    margin: 0px auto;
+    height: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+#score {
+    float: left;
+    width: 300px;
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#timer {
+    float: left;
+    width: 300px;
+    font-family: sans-serif;
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#won {
+    float: left;
+    font-family: sans-serif;
+    color: black;
+    width: 300px;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#person {
+    width: 90%;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#persongame {
+
+    height: 430px;
+    margin: 5px auto;
+    margin-bottom: 60px;
+    margin-left: 210px;
+}
+
+#knop {
+    width: 250px;
+    margin: 0px auto;
+}
+
+#buttongame {
+    width: 100px;
+    margin-top: 0px;
+    float: right;
+    margin-left: 25px;
+}
+
+#restart {
+    width: 100px;
+    float: right;
+    margin-right: 25px;
+}
+
+#tekst {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+#levels {
+    float: right;
+    font-family: sans-serif;
+    border: 2px solid black;
+    background-color: white;
+    width: 20%;
+    margin-right: 20px;
+    margin-top: 22px;
+    height: 180px;
+}
+
+.levels {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    line-height: 2em;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    padding: 0px;
+}
